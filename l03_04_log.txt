@@ -1,0 +1,8 @@
+commit 0fd403c017bfe09e9a1618f52f1242ede046ecb1
+Author: staniskav_andrianov <stanislav290487@gmail.com>
+Date:   Wed Oct 6 13:45:45 2021 +0300
+
+    Create script_04.py
+
+
+https://github.com/stanislav98349/script_04.git
